@@ -10,7 +10,7 @@ Die Deluxe Parking App bietet eine benutzerfreundliche Möglichkeit für Kunden 
 
 - **Buchungen einsehen und verwalten**: Kunden können ihre bestehenden Buchungen einsehen und bei Bedarf Änderungen vornehmen.
 
-- **Buchungsdetails anzeigen**: Detaillierte Informationen zu bestehenden Buchungen, einschließlich Parkzeit, Tarife und Standort, stehen den Kunden zur Verfügung.
+- **Buchungsdetails anzeigen**: Detaillierte Informationen zu bestehenden Buchungen, einschließlich Parkzeit, Tarifen und Standort, stehen den Kunden zur Verfügung.
 
 - **Pickup-Service organisieren**: Kunden können die Pickup-Funktion nutzen, um ihre Abholung am Flughafen zu arrangieren, sodass sie nach ihrer Ankunft bequem zu ihrem Fahrzeug gelangen.
 
@@ -24,8 +24,8 @@ Die Deluxe Parking App bietet eine benutzerfreundliche Möglichkeit für Kunden 
 
 ## Die App
 
-Die Deluxe parking App ist nicht im App Store oder im Play Store öffetnlich verfügbar.
+Die Deluxe Parking App ist derzeit nicht im App Store oder im Play Store öffentlich verfügbar.
 
 ## Screenshots
 
-![Design ohne Titel-9](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/170372eb-fef4-461e-8f67-d82d82ed5a20)
+![Bildschirmansichten](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/170372eb-fef4-461e-8f67-d82d82ed5a20)
