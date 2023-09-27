@@ -28,4 +28,4 @@ Die Deluxe parking App ist nicht im App Store oder im Play Store öffetnlich ver
 
 ## Screenshots
 
-![Design ohne Titel-8](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/a9683e21-9ff8-448d-ace2-74cd62541f99)
+![Design ohne Titel-9](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/170372eb-fef4-461e-8f67-d82d82ed5a20)
