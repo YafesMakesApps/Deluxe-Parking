@@ -28,7 +28,7 @@ Die Deluxe Parking App ist derzeit nicht im App Store oder im Play Store öffent
 
 ## Buchungsplattform
 
-Implementation in jede Art von Webseite möglich
+Implementation in jede Art von Webseiten möglich
 
 ![Deluxe Parking-4](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/4c9fbae8-528a-472e-b736-c6569f3d2f24)
 
