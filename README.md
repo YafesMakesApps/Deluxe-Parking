@@ -3,7 +3,6 @@
 Die Deluxe Parking App wurde speziell für Flughafenparkplatzanbieter entwickelt. Die Hauptfunktionen der App ermöglichen es Kunden, ihre Buchungen online einzusehen, Buchungsdetails anzuzeigen und Abholungen bequem über die Pickup-Funktion zu organisieren.
 
 ![Deluxe Parking-1](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/599583b2-3f86-4b02-aca0-2e188266e9c4)
-![Deluxe Parking-4](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/4c9fbae8-528a-472e-b736-c6569f3d2f24)
 
 ## Über die Deluxe Parking App
 
@@ -30,3 +29,10 @@ Die Deluxe Parking App ist derzeit nicht im App Store oder im Play Store öffent
 ## Screenshots
 
 ![Bildschirmansichten](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/170372eb-fef4-461e-8f67-d82d82ed5a20)
+
+## Buchungsplattform
+
+Implementation in jede Art von Webseite möglich
+
+![Deluxe Parking-4](https://github.com/YafesMakesApps/Deluxe-Parking/assets/146208688/4c9fbae8-528a-472e-b736-c6569f3d2f24)
+
